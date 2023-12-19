@@ -122,6 +122,9 @@ button:hover{
   color: rgb(142, 89, 20);
   background-color: transparent;
 }
+button:active{
+transform: translateY(3px);
+}
 .result{
   padding: 20px;
   width: 100%;
